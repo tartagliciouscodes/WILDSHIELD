@@ -1,0 +1,3 @@
+C:\Users\mrgns>"C:\Program Files\mosquitto\mosquitto.exe" -c "C:\Users\mrgns\Desktop\WildShield\mqtt\mosquitto.conf" -v
+
+python -m streamlit run dashboard.py
