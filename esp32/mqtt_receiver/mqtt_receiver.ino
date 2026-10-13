@@ -4,8 +4,8 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-const char* ssid = "Cynthia";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "Galaxy A15 5G";
+const char* password = "prarthana";
 
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port = 1883;
